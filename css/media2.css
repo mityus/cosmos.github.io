@@ -1,0 +1,145 @@
+@media screen and (max-width: 1500px){
+    ul{
+        font-size: 14px;
+    }
+    .center{
+        padding-left: calc(50% - 500px);
+        padding-right: calc(50% - 500px);
+    }
+    .center_2{
+        padding-left: calc(50% + 20px);
+        padding-right: calc(50% - 550px);
+    
+    }
+    .headering_bottom{
+        font-size: 14px;
+    }
+    .link_services{
+        font-size: 14px;
+    }
+    .link_padding{
+        width: 18px;
+        height: 18px;
+    }
+}
+@media screen and (max-width: 1024px){
+    ul{
+        font-size: 12px !important;
+    }
+    .center{
+        padding-left: calc(50% - 400px);
+        padding-right: calc(50% - 400px);
+    }
+    .center_2{
+        padding-left: 40%;
+        padding-right: calc(50% - 450px);
+    
+    }
+    .link_padding{
+        width: 12px !important;
+        height: 12px !important;
+    }
+}
+
+@media screen and (max-width: 812px){
+    ul{
+        font-size: 10px !important;
+    }
+    .center{
+        padding-left: calc(50% - 300px);
+        padding-right: calc(50% - 300px);
+    }
+    .center_2{
+        padding-left: 40%;
+        padding-right: 50px !important;
+    
+    }
+    .headering_bottom{
+        font-size: 10px;
+        margin-bottom: 14px !important;
+    }
+    .link_services{
+        font-size: 10px;
+    }
+    .link_padding{
+        width: 10px;
+        height: 10px;
+    }
+}
+
+@media screen and (max-width: 640px){
+    ul{
+        font-size: 1em !important;
+    }
+    
+    .center{
+        padding-left: 20% !important;
+        padding-right: 10% !important;
+    }
+    .center_2{
+        padding-left: 20% !important;
+        padding-right: 10% !important;
+    
+    }
+    .bottom_between{
+        display: inline-block !important;
+        
+    }
+    .headering_bottom{
+        font-size: 1em !important;
+        margin-bottom: 14px !important;
+        text-align: center !important;
+    }
+    .link_services{
+        font-size: 1em !important;
+    }
+    .lll{
+        text-align: center !important;
+    }
+    .lll_margin_but{
+        margin-bottom: 20% !important;
+    }
+  
+}
+
+
+
+
+
+
+
+    @media screen and (max-width: 414px){
+        .center{
+            padding-left: 15% !important;
+            padding-right: 10% !important;
+        }
+        .center_2{
+            padding-left: 15% !important;
+            padding-right: 10% !important;
+        
+        }
+        .h{
+            font-size: 1.2em !important;
+        }
+    
+    .bottom_between{
+        display: inline !important;
+        
+    }
+    
+}
+
+@media screen and (max-width: 380px){
+    .link_padding{
+        display: none !important;
+    }
+}
+
+@media screen and (max-width: 340px){
+    ul{
+        font-size: 12px !important;
+    }
+    .h{
+        font-size: 16px !important;
+    }
+}

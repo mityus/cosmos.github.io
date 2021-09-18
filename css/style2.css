@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: sans-serif;
+    color: white;
+    overflow-x: hidden;
+    
+}
+.section{
+    background-image: url(../img/FonCosmos.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.center{
+    padding-left: calc(50% - 776px);
+    padding-right: calc(50% - 720px);
+
+}
+
+
+
+.center_2{
+    padding-left: calc(50% + 280px);
+    padding-right: calc(50% - 900px);
+
+}
+
+.ul_l{
+    color: #FFFFFF;
+    font-size: 18px;
+    max-width: 760px;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 189.5%;
+    letter-spacing: 0.045em;
+    padding-top: 54px;
+    
+}
+.bottom{
+    margin-bottom: 40px;
+}
+.h{
+    padding-top: 50px;
+}
+.bottom_2{
+    margin-bottom: 100px;
+}
+
+.b{
+    padding-bottom: 100px;
+}
+
+
+.bottom_section{
+    background: #1F1F1F;
+    padding: 70px;
+
+}
+.a{
+    padding-bottom: 86px;
+}
+li {
+    list-style-type: none; /* Убираем маркеры */
+}
+.headering_bottom{
+    font-style: normal;
+    margin-bottom: 40px;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 161.5%;
+    letter-spacing: 0.005em;
+    color: rgba(235, 233, 233, 0.7);
+}
+.link_services{
+    text-decoration: none;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 161.5%;
+    letter-spacing: 0.005em;
+    color: rgba(235, 233, 233, 0.7);
+    
+
+}
+.bottom_between{
+    display: flex;
+    justify-content: space-between;
+}
+
+.link_padding{
+    padding-right: 10px;
+}
+.link_services:visited{
+    color: #FFFFFF;
+    transition: all 2s;
+}
+

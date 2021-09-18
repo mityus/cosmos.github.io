@@ -1,0 +1,393 @@
+@media (max-width: 1500px)  {
+    .center{
+        padding-left: 100px;
+        padding-right: 100px;
+
+    }
+   .promoImg{
+    width: 30%;
+   }
+   .Logo{
+       font-size: 18px;
+   }
+   .topLink{
+    font-size: 18px;
+   }
+   .topText{
+    font-size: 18px;
+    
+   }
+   .promoHeader{
+    width: 40%;
+    }
+    .Link{
+        padding-left: 20px;
+
+    }
+    .promoText{
+        font-size: 18px;
+    }
+    .LinkImg{
+        height: 30px;
+        width: 30px;
+    }
+    .limkColour{
+        font-size: 14px;
+    }
+    .link{
+        padding: 20px 90px;
+        font-size: 14px;
+    }
+    .promo__img{
+        width: 40%;
+        height: 80%;
+        padding-top: 100px;
+        
+    }
+    .promo__text{
+        font-size: 18px;
+    }
+    .promo__link{
+        padding: 20px 90px;
+    }
+    .header_reviews{
+        font-size: 40px;
+    }
+    .Reviews_name{
+        font-size: 30px;
+    }
+    .center_2{
+        padding-left: calc(50% - 100px);
+    
+    }
+    .text_Reviews{
+        font-size: 18px;
+    }
+    .headering_bottom{
+        font-size: 18px;
+    }
+    .link_services{
+        font-size: 14px;
+    }
+    .link_padding{
+        width: 23px;
+        height: 23px;
+    }
+
+    
+    .text_Reviews_width{
+        
+        padding-right: 50px;
+    }
+}
+
+@media (max-width: 1370px){
+    .link_padding{
+        width: 15px !important;
+        height: 15px !important;
+    }
+    .topText{
+        line-height: 20px !important;
+    }
+    .Link{
+        padding-top: 30px !important;
+    }
+}
+
+
+@media screen and (max-width: 1030px){
+    .Link{
+        padding-top: 35px !important;
+    }
+
+    .Logo{
+        font-size: 16px !important;
+    }
+.topLink{
+ font-size: 16px !important;
+}
+.topText{
+ font-size: 16px !important;
+ 
+}
+    .Link{
+        width: 16px !important;
+        height: 16px !important;
+    }
+    .promoText{
+        font-size: 16px !important;
+        padding-top: 50px !important;
+        
+        
+    }
+    .center{
+        padding-left: calc(50% - 400px);
+        padding-right: calc(50% - 400px);
+    }
+    .promoImg{
+        padding-left: 20px;
+        
+        
+    }
+    .limkColour{
+        padding: 20px 40px;
+        font-size: 12px;
+    }
+    .link{
+        padding: 20px 85px;
+        font-size: 12px;
+    }
+    
+    .promo__mt{
+        display: none;
+        
+    }
+    .header_reviews{
+        font-size: 32px;
+    }
+    .Reviews_name{
+        font-size: 28px;
+    }
+    .text_Reviews{
+        font-size: 16px;
+    }
+    .center_2{
+        padding-left: 40%;
+        padding-right: calc(50% - 450px);
+    
+    }
+    .str{
+        width: 20px;
+        height: 24px;
+    }
+    .headering_bottom{
+        font-size: 16px;
+    }
+    .link_services{
+        font-size: 12px;
+    }
+}
+
+@media screen and (max-width:846px){
+    .center{
+        padding-left: calc(50% - 300px);
+        padding-right: calc(50% - 300px);
+    }
+    .center_2{
+        padding-left: 40%;
+        padding-right: 50px !important;
+    
+    }
+    .Logo{
+        font-size: 12px !important;
+    }
+    .topLink{
+        font-size: 12px !important;
+    }
+    .topText{
+        font-size: 12px !important;
+        
+    }
+    .LinkImg{
+        width: 22px !important;
+        height: 22px !important;
+    }
+    .Link{
+        padding-top: 50px;
+    }
+    .topRight{
+        padding-top: 10px;
+    }
+    .promoText{
+        font-size: 12px !important;
+        width: 70%;
+        height: 50%;
+    }
+    .promoHeader{
+        padding-top: 70px;
+        width: 40%;
+    }
+    .limkColour{
+        padding: 18px 40px;
+        font-size: 10px;
+    }
+    .link{
+        padding: 18px 85px;
+        font-size: 10px;
+    }
+    .header_reviews{
+        font-size: 24px;
+    }
+    .Reviews_name{
+        font-size: 20px;
+    }
+    .text_Reviews{
+        font-size: 12px;
+        padding-top: 20px;
+    }
+    
+    .str{
+        width: 16px;
+        height: 20px;
+    }
+    .headering_bottom{
+        font-size: 12px;
+        margin-bottom: 14px;
+    }
+    .link_services{
+        font-size: 10px;
+    }
+    .link_padding{
+        width: 12px !important;
+        height: 12px !important;
+    }
+}
+
+
+@media screen and (max-width: 670px){
+    .center{
+        padding-left: calc(50% - 300px);
+        padding-right: calc(50% - 300px);
+    }
+    .center_2{
+        padding-left: 40%;
+        padding-right: 50px !important;
+    
+    }
+    .link_padding{
+        display: none !important;
+    }
+
+    .Logo{
+        font-size: 12px !important;
+        
+        
+    }
+    .topLink{
+        font-size: 12px !important;
+    }
+    .topText{
+        font-size: 12px !important;
+        
+    }
+    .LinkImg{
+        width: 22px !important;
+        height: 22px !important;
+    }
+    .Link{
+        padding-top: 50px;
+    }
+    .topRight{
+        padding-top: 10px;
+    }
+    .promoText{
+        font-size: 12px !important;
+        width: 60%;
+        height: 50%;
+    }
+    .promoHeader{
+        padding-top: 70px;
+        width: 40%;
+    }
+    .limkColour{
+        padding: 18px 40px;
+        font-size: 10px;
+    }
+    
+    .link{
+        padding: 18px 70px;
+        font-size: 10px;
+    }
+    
+    
+    
+    
+    
+    
+}
+
+@media screen and (max-width: 620px){
+    .center{
+        padding-left: 10% !important;
+        padding-right: 10% !important;
+    }
+    .center_2{
+        padding-left: 10% !important;
+        padding-right: 10% !important;
+    
+    }
+    .topLeft{
+        display: none;
+    }
+    .topRight{
+        display: none;
+    }
+    .promoHeader{
+        width: 80%;
+        padding-top: 70px;
+        
+    }
+    .promoImg{
+        display: none;
+    }
+    .promoText{
+        font-size: 1em !important;
+        width: 100%;
+    }
+    .bottom_between{
+        display: inline !important;
+        
+    }
+    .headering_bottom{
+        font-size: 1em !important;
+        margin-bottom: 14px !important;
+        text-align: center !important;
+    }
+    .link_services{
+        font-size: 1em !important;
+    }
+    .lll{
+        text-align: center !important;
+    }
+    .lll_margin_but{
+        margin-bottom: 20% !important;
+    }
+    
+    .link{
+        display: none;
+    }
+    .limkColour{
+        font-size: 1em;
+    }
+    .header_reviews{
+        font-size: 1.5em;
+    }
+   .text_Reviews{
+       font-size: 1em;
+   }
+   
+}
+@media screen and (max-width:340px){
+    .promoHeader{
+        width: 90%;
+    }
+    
+    .center{
+        padding-left: 5% !important;
+        padding-right: 5% !important;
+    }
+    .center_2{
+        padding-left: 5% !important;
+        padding-right: 5% !important;
+    
+    }
+    body{
+        font-size: 12px;
+    }
+    
+}
+@media screen and (max-width:300px){
+    body{
+        font-size: 10px;
+    }
+}
